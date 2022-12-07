@@ -89,7 +89,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"           // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"        // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"    // 猜歌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/heisi"         // 黑丝
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/heisi"         // 黑丝
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"            // 炉石
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"         // 百人一首
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder"  // 关键字搜图
@@ -106,7 +106,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"          // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar" // 摸鱼人日历
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         // 点歌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"    // 本地涩图
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"    // 本地涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"    // 本地老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"       // 拼音首字母缩写释义工具
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nihongo"       // 日语语法学习
